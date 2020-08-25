@@ -16,3 +16,9 @@
 ## :rocket: Sobre
 Aqui esta postada a atividade Conceitos do React Native!!! <br><br>
 Feitos pelo João Pedro "Belluominus" Belluomini, eu hehe. Abaixo estão o que e esperado de resposta da aplicação.
+<br>
+<br>
+<br>
+- [x] **`should add a like to the like counter of the repository`**:
+
+![yarn test](https://github.com/Belluominus/Conceitos_do_ReactNative/blob/master/readMeFiles/yarnTest.png)
